@@ -1,0 +1,2 @@
+ip link set eth0 up
+ip -6 addr add  2001:ed8:77b5::10:0:0:1/64 dev eth0
